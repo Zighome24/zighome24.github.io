@@ -93,7 +93,7 @@ aside {
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #36A5D1 !important;
+  color: #40BCED !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
